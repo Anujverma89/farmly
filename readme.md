@@ -17,7 +17,7 @@
 - 4)Pandas   
 
 ### Steps to run this project locally : 
-**Installation**
+**Installation & Running Script**
 1) Install python version 3.9.7 or greater
 2) Install django version 
 3) pip install -r requirements.txt
