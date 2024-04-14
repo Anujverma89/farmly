@@ -27,25 +27,3 @@
 7) If every thing is right open your browser and hit 127.0.0.1:8000
 8) You will see the Farmly home screen.
 
-
-
-
-
-
-
-# Screens after successful Execution 
-### Home Screen
-![Home Screen](HealthyCrop/Screenshot from 2024-04-14 21-05-15.png)
-
-### Upload sugarcane Screen
-![ Upload SugarCane Image ](HealthyCrop/upload.png)
-
-
-### Start Diagnose Screen
-![ Start Diagnose Screen](HealthyCrop/Screenshot from 2024-04-14 21-05-43.png)
-
-### IF Not sugarcane Screen
-![Not Sugarcane Screen](HealthyCrop/Screenshot from 2024-04-14 21-06-02.png)
-
-### Disease Image screen
-![Disease Image Screen](HealthyCrop/Screenshot from 2024-04-14 21-08-06.png)
