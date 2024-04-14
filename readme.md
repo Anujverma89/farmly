@@ -35,17 +35,17 @@
 
 # Screens after successful Execution 
 ### Home Screen
-![Home Screen](https://drive.google.com/file/d/1wZuVpKE-t5IcPypIpGgNrjkkfxjCF8Xg/view?usp=drive_link)
+![Home Screen](HealthyCrop/Screenshot from 2024-04-14 21-05-15.png)
 
 ### Upload sugarcane Screen
-![ Upload SugarCane Image ](https://drive.google.com/file/d/1xTX1GwowFnUd_FnbTtKaDbQk4Nu4_RD_/view?usp=drive_link)
+![ Upload SugarCane Image ](HealthyCrop/upload.png)
 
 
 ### Start Diagnose Screen
-![ Start Diagnose Screen](https://drive.google.com/file/d/1ao5N1v3NFagfIt_XoJc6GyhwzEIRx8zB/view?usp=drive_link)
+![ Start Diagnose Screen](HealthyCrop/Screenshot from 2024-04-14 21-05-43.png)
 
 ### IF Not sugarcane Screen
-![Not Sugarcane Screen](https://drive.google.com/file/d/14cy3DegUmFll4tWgsfPzTyEuZ_EFUGui/view?usp=drive_link)
+![Not Sugarcane Screen](HealthyCrop/Screenshot from 2024-04-14 21-06-02.png)
 
 ### Disease Image screen
-![Disease Image Screen](https://drive.google.com/file/d/1VyEBBez8gfhCdddjpjgfgdHoLGsQq6ZD/view?usp=drive_link)
+![Disease Image Screen](HealthyCrop/Screenshot from 2024-04-14 21-08-06.png)
