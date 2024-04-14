@@ -1,0 +1,100 @@
+#content{
+    background-image: url("../img/farm_image.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.blur_layer{
+    /* background-color: rgb(30, 167, 2); */
+    /* opacity: 0.5; */
+    width: 100%;
+    height: 100%;
+    backdrop-filter: blur(8px);
+}
+
+#head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(32 170 185 / 4%);
+    margin: auto;
+    height: 100px;
+    color: rgb(0, 0, 0);
+}
+
+
+#footer{
+    display: flex;
+    background-color: rgb(34, 17, 17);
+    width: 100%;
+    align-items: center;
+    justify-content:space-evenly ;
+    flex-wrap: wrap;
+    min-width: auto;
+    color: white;
+    padding: 50px 0px 50px 0px;
+}
+.body_content{
+    width: 100%;
+    height: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+    gap: 50px;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+.diagnose_image_btn{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    border: 0px;
+    background: navajowhite;
+    font-weight: bolder;
+    font-family: system-ui;
+}
+.diagnose_image_btn:hover{
+    background-color: greenyellow;
+}
+
+.image_box{
+    height: 200px;
+    width: 200px;
+    background-color: rebeccapurple;
+}
+
+.start_diagnose_btn{
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+    border: 0px;
+    background: navajowhite;
+    font-weight: bolder;
+    font-family: system-ui;
+}
+.start_diagnose_btn:hover{
+    background-color: green;
+}
+
+.show_image{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+}
+
+.hidden_image{
+    display: none;
+}
+
+.hide_diagnose_button{
+    display: none;
+}
+
+#crop_image{
+    border: 5px solid white;
+}

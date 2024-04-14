@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{condition}}</title>
+</head>
+<body>
+ 
+        <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
+            <h1>{{ warning }}<h1>
+           {% if condition %}
+           <h1> Your crop is infected from <b>{{condition}}<b></h1> 
+           {% endif %}
+            <img src="" alt="image" id="image" height="200px"  width="200px">
+        </div>
+        <p style="display: none;" id="path">{{pathh}}</p>
+     
+        <script>
+            link= document.getElementById("path")
+            img= document.getElementById("image")
+            let txt = `media/images/${link.innerText}`
+            img.src = txt
+            console.log(txt)
+
+        </script>
+</body>
+</html>
